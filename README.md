@@ -1,2 +1,2 @@
 # Restaurant_Data_Analysis
-Creating a report by analysis a restaurant data using sql
+Creating a data analysis report by analysing a restaurant data using sql
